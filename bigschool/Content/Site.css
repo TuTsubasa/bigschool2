@@ -11,16 +11,16 @@
 
 /* Override the default bootstrap behavior where horizontal description lists */
 .navbar-inverse {
-    background-color: #ff4342;
+    background-color: #808080;
     border-color: #ff4342;
 }
 
     .navbar-inverse .navbar-nav > li > a {
-        color: #fff;
+        color: #ffd800;
     }
 
     .navbar-inverse .navbar-brand {
-        color: #fff;
+        color: #ffd800;
     }
 
     .navbar-inverse .notifications {
